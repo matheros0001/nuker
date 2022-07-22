@@ -54,8 +54,8 @@ nuker.on("messageCreate", (message) => {
     **mass ban ;**
     ${prefix}mb
     `)
-        .setFooter(`© Presser Beta`)
-        .setColor(0x36393E)
+        .setFooter(`Matheros`)
+        .setColor('#303136')
         .setTimestamp(Date.now());
 
     // Perms
