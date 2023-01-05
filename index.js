@@ -54,7 +54,7 @@ nuker.on("messageCreate", (message) => {
     **mass ban ;**
     ${prefix}mb
     `)
-        .setFooter(`Matheros`)
+        .setFooter(`Neo`)
         .setColor('#303136')
         .setTimestamp(Date.now());
 
